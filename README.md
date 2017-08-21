@@ -2,7 +2,7 @@
 
 This is a "ordinary" Fortran rewrite of the HPF code from Appendix III of Haupt&Haupt "Practical Genetic Algorithms" book.
 
-Progrma searches for the minumim of the given function.
+Program searches for the minimum of the given function.
 
 The HPF sorting functions are changed with quicksort algorithm that returns sorted array but also the sorted array of indexes from the original array.  
 
